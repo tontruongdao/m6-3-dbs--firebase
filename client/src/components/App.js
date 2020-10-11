@@ -12,7 +12,7 @@ const App = () => {
       <StyledHeader>
         <button>Sign In</button>
       </StyledHeader>
-      <StyledContainer>{message}</StyledContainer>
+      <StyledContainer></StyledContainer>
     </StyledPageWrapper>
   );
 };
